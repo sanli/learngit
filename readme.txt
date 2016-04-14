@@ -7,3 +7,4 @@ add this line and commit and push to remote
     this line was add by dev brunch
     add line with master
     this line was add by branch f1, git is free
+add a line for test stash
