@@ -1,0 +1,2 @@
+i want to know will this file lost when stash
+the result is after stash, this fill still there
