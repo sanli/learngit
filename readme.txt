@@ -8,3 +8,4 @@ add this line and commit and push to remote
     add line with master
     this line was add by branch f1, git is free
 add a line for test stash
+    this line add by user1
